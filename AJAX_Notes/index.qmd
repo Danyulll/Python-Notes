@@ -1,0 +1,7 @@
+# Preface {.unnumbered}
+
+This book contains all my notes on `JAX`:
+
+> JAX is a library for array-oriented numerical computation (à la NumPy), with automatic differentiation and JIT compilation to enable high-performance machine learning research.
+
+There are based on the documentation available [here](https://jax.readthedocs.io/en/latest/quickstart.html).
